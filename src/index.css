@@ -1,0 +1,19 @@
+:root {
+  --bg-start: #eef3ff;
+  --bg-end: #ffffff;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(to bottom, #f7faff 0%, #f7faff 40%, #ffffff 100%);
+  font-family: "Roboto", sans-serif;
+}
+
+.hover-bg {
+  transition: all 0.2s ease;
+}
+
+.hover-bg:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
