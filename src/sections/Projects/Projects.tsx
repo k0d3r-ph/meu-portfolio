@@ -11,7 +11,7 @@ function Projects() {
 
         <div className="row gap-5">
           <div className="card" style={{ width: "20rem" }}>
-            <img className="img-thumbnail" src="/calculadora.png"></img>
+            <img className="img-thumbnail" src="calculadora.png"></img>
             <div className="card-body">
               <h5 className="card-title">Calculadora</h5>
               <p className="card-text fs-6 text-body-secondary">
@@ -38,7 +38,7 @@ function Projects() {
           </div>
 
           <div className="card" style={{ width: "20rem" }}>
-            <img className="img-thumbnail" src="/weather.png"></img>
+            <img className="img-thumbnail" src="weather.png"></img>
             <div className="card-body">
               <h5 className="card-title">Weather App</h5>
               <p className="card-text fs-6 text-body-secondary">
@@ -65,7 +65,7 @@ function Projects() {
           </div>
 
           <div className="card" style={{ width: "20rem" }}>
-            <img className="img-thumbnail" src="/to-do.png"></img>
+            <img className="img-thumbnail" src="to-do.png"></img>
             <div className="card-body">
               <h5 className="card-title">To-do List</h5>
               <p className="card-text fs-6 text-body-secondary">
@@ -93,7 +93,7 @@ function Projects() {
           </div>
 
           <div className="card" style={{ width: "20rem" }}>
-            <img className="img-thumbnail" src="/movie.png"></img>
+            <img className="img-thumbnail" src="movie.png"></img>
             <div className="card-body">
               <h5 className="card-title">Movie Swiper</h5>
               <p className="card-text fs-6 text-body-secondary">
@@ -120,7 +120,7 @@ function Projects() {
           </div>
 
           <div className="card" style={{ width: "20rem" }}>
-            <img className="img-thumbnail" src="/universidade.png"></img>
+            <img className="img-thumbnail" src="universidade.png"></img>
             <div className="card-body">
               <h5 className="card-title">Universidade Systemsat</h5>
               <p className="card-text fs-6 text-body-secondary">

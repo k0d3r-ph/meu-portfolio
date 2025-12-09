@@ -8,7 +8,7 @@ function About() {
           <div className="col-md-4 text-center">
             <img
               className="img-fluid rounded-4 shadow-sm"
-              src="/Perfil.jpg"
+              src="Perfil.jpg"
               alt="Foto de perfil"
             />
           </div>
